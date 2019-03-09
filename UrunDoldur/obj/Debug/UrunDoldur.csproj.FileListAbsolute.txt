@@ -1,0 +1,32 @@
+C:\Users\Section2\source\repos\UrunDoldur\UrunDoldur\bin\Debug\UrunDoldur.exe.config
+C:\Users\Section2\source\repos\UrunDoldur\UrunDoldur\bin\Debug\UrunDoldur.exe
+C:\Users\Section2\source\repos\UrunDoldur\UrunDoldur\bin\Debug\UrunDoldur.pdb
+C:\Users\Section2\source\repos\UrunDoldur\UrunDoldur\obj\Debug\UrunDoldur.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\UrunDoldur\UrunDoldur\obj\Debug\UrunDoldur.Form1.resources
+C:\Users\Section2\source\repos\UrunDoldur\UrunDoldur\obj\Debug\UrunDoldur.Properties.Resources.resources
+C:\Users\Section2\source\repos\UrunDoldur\UrunDoldur\obj\Debug\UrunDoldur.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\UrunDoldur\UrunDoldur\obj\Debug\UrunDoldur.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\UrunDoldur\UrunDoldur\obj\Debug\UrunDoldur.exe
+C:\Users\Section2\source\repos\UrunDoldur\UrunDoldur\obj\Debug\UrunDoldur.pdb
+C:\Users\Section2\Desktop\UrunDoldur\UrunDoldur\bin\Debug\UrunDoldur.exe.config
+C:\Users\Section2\Desktop\UrunDoldur\UrunDoldur\bin\Debug\UrunDoldur.exe
+C:\Users\Section2\Desktop\UrunDoldur\UrunDoldur\bin\Debug\UrunDoldur.pdb
+C:\Users\Section2\Desktop\UrunDoldur\UrunDoldur\obj\Debug\UrunDoldur.csprojAssemblyReference.cache
+C:\Users\Section2\Desktop\UrunDoldur\UrunDoldur\obj\Debug\UrunDoldur.Form1.resources
+C:\Users\Section2\Desktop\UrunDoldur\UrunDoldur\obj\Debug\UrunDoldur.Properties.Resources.resources
+C:\Users\Section2\Desktop\UrunDoldur\UrunDoldur\obj\Debug\UrunDoldur.csproj.GenerateResource.cache
+C:\Users\Section2\Desktop\UrunDoldur\UrunDoldur\obj\Debug\UrunDoldur.csproj.CoreCompileInputs.cache
+C:\Users\Section2\Desktop\UrunDoldur\UrunDoldur\obj\Debug\UrunDoldur.exe
+C:\Users\Section2\Desktop\UrunDoldur\UrunDoldur\obj\Debug\UrunDoldur.pdb
+C:\Users\AHMET\Desktop\UrunDoldur\UrunDoldur\bin\Debug\UrunDoldur.exe.config
+C:\Users\AHMET\Desktop\UrunDoldur\UrunDoldur\obj\Debug\UrunDoldur.exe
+C:\Users\AHMET\Desktop\UrunDoldur\UrunDoldur\obj\Debug\UrunDoldur.pdb
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\ADO.NET\PROJELER\UrunDoldur\UrunDoldur\bin\Debug\UrunDoldur.exe.config
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\ADO.NET\PROJELER\UrunDoldur\UrunDoldur\obj\Debug\UrunDoldur.exe
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\ADO.NET\PROJELER\UrunDoldur\UrunDoldur\obj\Debug\UrunDoldur.pdb
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\ADO.NET\PROJELER\UrunDoldur\UrunDoldur\bin\Debug\UrunDoldur.exe
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\ADO.NET\PROJELER\UrunDoldur\UrunDoldur\bin\Debug\UrunDoldur.pdb
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\ADO.NET\PROJELER\UrunDoldur\UrunDoldur\obj\Debug\UrunDoldur.csprojResolveAssemblyReference.cache
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\ADO.NET\PROJELER\UrunDoldur\UrunDoldur\obj\Debug\UrunDoldur.Form1.resources
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\ADO.NET\PROJELER\UrunDoldur\UrunDoldur\obj\Debug\UrunDoldur.Properties.Resources.resources
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\ADO.NET\PROJELER\UrunDoldur\UrunDoldur\obj\Debug\UrunDoldur.csproj.GenerateResource.Cache
